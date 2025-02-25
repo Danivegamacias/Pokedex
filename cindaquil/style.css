@@ -6,8 +6,8 @@ body {
     background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
     font-family: 'Press Start 2P', cursive;
     overflow:hidden;
-    color: white;
-
+    color: rgb(0, 0, 0);
+    background-color: rgba(241, 192, 137, 0.679);
 }
 h1 {
 
@@ -18,6 +18,13 @@ img {
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-position: left top; /* Alinea la imagen a la banda izquierda */
 }
+.highlight {
+    background-color: rgb(255, 128, 0); /* Cambia el color del texto a rojo */
+}
 a {
     color: white;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    display: inline-block; /* Asegura que el enlace se comporte como un bloque en línea */
+    padding: 10px 20px; /* Añade algo de relleno para hacer el enlace más grande */
 }
