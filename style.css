@@ -1,17 +1,19 @@
-body {
+#index {
     background-image: url('./img/kanto-map.jpeg'); /* Establece la imagen de fondo */
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
     background-position: left top; /* Alinea la imagen a la banda izquierda */
     background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
+    background-color: rgb(82, 215, 255);
     font-family: 'Press Start 2P', cursive;
     overflow:hidden;
     color: white;
 
 }
 h1 {
-
-    text-align: center;
+    background-color: rgba(0, 0, 0, 0.379);
+    margin-left: 700px;
+    margin-right: 600px;
 }
 img {
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
@@ -20,4 +22,46 @@ img {
 }
 a {
     color: white;
+}
+.pokemons {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    display: inline-block; /* Asegura que el enlace se comporte como un bloque en línea */
+    padding: 10px 20px; /* Añade algo de relleno para hacer el enlace más grande */
+}
+#cindaquil {
+    background-color: orange;
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: left top; /* Alinea la imagen a la banda izquierda */
+    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
+    font-family: 'Press Start 2P', cursive;
+    overflow:hidden;
+    color: rgb(0, 0, 0);
+}
+.highlight {
+    background-color: rgba(255, 0, 0, 0.921);
+}
+#img-gengar {
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: left top; /* Alinea la imagen a la banda izquierda */
+    ;
+}
+#gengar {
+    background-color: rgba(135, 39, 209, 0.858);
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: left top; /* Alinea la imagen a la banda izquierda */
+    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
+    font-family: 'Press Start 2P', cursive;
+    overflow:hidden;
+    color: rgb(0, 0, 0);
+}
+#img-gengar {
+    width: 200px; /* Ajusta el tamaño de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    top: 10px; /* Ajusta la posición desde la parte superior */
+    left: 10px; /* Ajusta la posición desde la parte izquierda */
 }
