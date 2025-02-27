@@ -23,13 +23,6 @@ img {
 a {
     color: white;
 }
-.pokemons {
-    color: white;
-    background-color: rgb(255, 0, 0);
-    text-align: center;
-    display: inline-block; /* Asegura que el enlace se comporte como un bloque en línea */
-    padding: 10px 20px; /* Añade algo de relleno para hacer el enlace más grande */
-}
 #cindaquil {
     background-color: orange;
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
@@ -64,4 +57,23 @@ a {
     height: auto; /* Mantiene la proporción de la imagen */
     top: 10px; /* Ajusta la posición desde la parte superior */
     left: 10px; /* Ajusta la posición desde la parte izquierda */
+}
+.gengars {
+    background-color: rgba(255, 0, 234, 0.921);
+}
+#img-mew {
+    width: 200px; /* Ajusta el tamaño de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    top: 10px; /* Ajusta la posición desde la parte superior */
+    left: 10px; /* Ajusta la posición desde la parte izquierda */
+}
+.pokemon {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    display: inline-block; /* Asegura que el enlace se comporte como un bloque en línea */
+    padding: 10px 20px; /* Añade algo de relleno para hacer el enlace más grande */
+}
+.tipo{
+    background-color: pink;
 }
