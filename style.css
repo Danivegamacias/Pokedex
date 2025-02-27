@@ -52,7 +52,7 @@ a {
     overflow:hidden;
     color: rgb(0, 0, 0);
 }
-#img-gengar {
+#img-pokemon {
     width: 200px; /* Ajusta el tamaño de la imagen */
     height: auto; /* Mantiene la proporción de la imagen */
     top: 10px; /* Ajusta la posición desde la parte superior */
