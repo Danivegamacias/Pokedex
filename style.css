@@ -36,55 +36,10 @@ a {
 .highlight {
     background-color: rgba(255, 0, 0, 0.921);
 }
-#gengar {
-    background-color: rgba(135, 39, 209, 0.858);
-    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    background-position: left top; /* Alinea la imagen a la banda izquierda */
-    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
-    font-family: 'Press Start 2P', cursive;
-    overflow:hidden;
-    color: rgb(0, 0, 0);
-}
-#img-pokemon {
-    width: 200px; /* Ajusta el tamaño de la imagen */
-    height: auto; /* Mantiene la proporción de la imagen */
-    top: 10px; /* Ajusta la posición desde la parte superior */
-    left: 10px; /* Ajusta la posición desde la parte izquierda */
-}
-.gengars {
-    background-color: rgba(255, 0, 234, 0.921);
-}
-.pokemon {
+a {
     color: white;
-    background-color: rgb(255, 0, 0);
-    text-align: center;
-    display: inline-block; /* Asegura que el enlace se comporte como un bloque en línea */
-    padding: 10px 20px; /* Añade algo de relleno para hacer el enlace más grande */
 }
-.tipo{
-    background-color: pink;
-}
-.tipos{
-    background-color: rgb(17, 131, 2);
-}
-#mew {
-    background-color: rgb(199, 102, 244);
-    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    background-position: left top; /* Alinea la imagen a la banda izquierda */
-    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
-    font-family: 'Press Start 2P', cursive;
-    overflow:hidden;
-    color: rgb(0, 0, 0);
-}
-#rayquaza {
-    background-color: rgb(0, 255, 76);
-    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    background-position: left top; /* Alinea la imagen a la banda izquierda */
-    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
-    font-family: 'Press Start 2P', cursive;
-    overflow:hidden;
-    color: rgb(0, 0, 0);
+.center {
+    text-align: center; /* Centra el contenido del div */
+    margin-top: 20px; /* Añade un margen superior para separar el enlace del contenido anterior */
 }
