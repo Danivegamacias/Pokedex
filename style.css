@@ -61,9 +61,6 @@ a {
     top: 10px; /* Ajusta la posición desde la parte superior */
     left: 10px; /* Ajusta la posición desde la parte izquierda */
 }
-.gengars {
-    background-color: rgba(255, 0, 234, 0.921);
-}
 .pokemon {
     color: white;
     background-color: rgb(255, 0, 0);
