@@ -15,11 +15,6 @@ h1 {
     margin-left: 700px;
     margin-right: 600px;
 }
-h2 {
-    margin-left: 700px;
-    margin-right: 600px;
-    text-align: center;
-}
 img {
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
