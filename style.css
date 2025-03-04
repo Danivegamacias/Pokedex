@@ -18,6 +18,7 @@ h1 {
 h2 {
     margin-left: 700px;
     margin-right: 700px;
+    text-align: center;
 }
 img {
     background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
