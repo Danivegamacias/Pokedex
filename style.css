@@ -33,8 +33,17 @@ a {
     overflow:hidden;
     color: rgb(0, 0, 0);
 }
-.highlight {
+.tipo {
     background-color: rgba(255, 0, 0, 0.921);
+}
+.tipo1 {
+    background-color: rgba(63, 0, 82, 0.921);
+}
+.tipo2 {
+    background-color: rgb(148, 0, 111);
+}
+.tipo3 {
+    background-color: rgb(7, 145, 0);
 }
 #gengar {
     background-color: rgba(135, 39, 209, 0.858);
